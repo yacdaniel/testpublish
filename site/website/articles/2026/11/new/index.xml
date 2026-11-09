@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6b31</objectGroupId>
+	<objectId>6b31328c-14ed-d597-fa40-89fd44d8454b</objectId>
+	<sections_o item-list="true">	<item>	<section_html>&lt;p&gt;new&lt;/p&gt;</section_html>
+	</item></sections_o>
+	<file-name>index.xml</file-name>
+	<folder-name>new</folder-name>
+	<internal-name>new</internal-name>
+	<title_t>new</title_t>
+	<subject_t>new</subject_t>
+	<author_s>new</author_s>
+	<disabled>false</disabled>
+	<featured_b>false</featured_b>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true"/>
+	<categories_o>	<item>	<key>style</key>
+	<value_smv>Style</value_smv>
+	</item></categories_o>
+	<segments_o>	<item>	<key>guy</key>
+	<value_smv>Guy</value_smv>
+	</item></segments_o>
+	<summary_t>new</summary_t>
+	<image_s/>
+	<createdDate>2026-11-09T18:15:20.261Z</createdDate>
+	<createdDate_dt>2026-11-09T18:15:20.261Z</createdDate_dt>
+	<lastModifiedDate>2026-11-09T18:15:20.261Z</lastModifiedDate>
+	<lastModifiedDate_dt>2026-11-09T18:15:20.261Z</lastModifiedDate_dt>
+	<date_dt>2026-11-09T06:00:00.000Z</date_dt>
+	<date_dt_tz>America/Costa_Rica</date_dt_tz>
+</page>
